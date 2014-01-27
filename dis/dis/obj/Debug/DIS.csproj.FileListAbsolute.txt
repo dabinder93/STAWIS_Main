@@ -1,0 +1,29 @@
+C:\Users\Anton Mayr\AppData\Local\Temporary Projects\DIS\bin\Debug\DIS.exe
+C:\Users\Anton Mayr\AppData\Local\Temporary Projects\DIS\bin\Debug\DIS.pdb
+C:\Users\Anton Mayr\AppData\Local\Temporary Projects\DIS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anton Mayr\AppData\Local\Temporary Projects\DIS\obj\Debug\DIS.exe
+C:\Users\Anton Mayr\AppData\Local\Temporary Projects\DIS\obj\Debug\DIS.pdb
+C:\Users\Anton Mayr\Arbeit\Traun\Skripten\apr\apr5\uebungen\loesungen\Stawis-2008-11-20\DIS\DIS\obj\Debug\DIS.exe
+C:\Users\Anton Mayr\Arbeit\Traun\Skripten\apr\apr5\uebungen\loesungen\Stawis-2008-11-20\DIS\DIS\obj\Debug\DIS.pdb
+C:\Users\Anton Mayr\Arbeit\Traun\Skripten\apr\apr5\uebungen\loesungen\Stawis-2008-11-20\DIS\DIS\bin\Debug\DIS.exe
+C:\Users\Anton Mayr\Arbeit\Traun\Skripten\apr\apr5\uebungen\loesungen\Stawis-2008-11-20\DIS\DIS\bin\Debug\DIS.pdb
+C:\Users\Anton Mayr\Arbeit\Traun\Skripten\apr\apr5\uebungen\loesungen\Stawis-2008-11-20\DIS\DIS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anton Mayr\Arbeit\Traun\Skripten\apr\apr5\uebungen\loesungen\Stawis-2008-11-27\DIS\DIS\obj\Debug\DIS.exe
+C:\Users\Anton Mayr\Arbeit\Traun\Skripten\apr\apr5\uebungen\loesungen\Stawis-2008-11-27\DIS\DIS\obj\Debug\DIS.pdb
+C:\Users\Anton Mayr\Arbeit\Traun\Skripten\apr\apr5\uebungen\loesungen\Stawis-2008-11-27\DIS\DIS\bin\Debug\DIS.exe
+C:\Users\Anton Mayr\Arbeit\Traun\Skripten\apr\apr5\uebungen\loesungen\Stawis-2008-11-27\DIS\DIS\bin\Debug\DIS.pdb
+C:\Users\Anton Mayr\Arbeit\Traun\Skripten\apr\apr5\uebungen\loesungen\Stawis-2008-11-27\DIS\DIS\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anton Mayr\Arbeit\Traun\Skripten\apr\apr5\uebungen\loesungen\Stawis-2008-12-18\DIS\DIS\obj\Debug\DIS.exe
+C:\Users\Anton Mayr\Arbeit\Traun\Skripten\apr\apr5\uebungen\loesungen\Stawis-2008-12-18\DIS\DIS\obj\Debug\DIS.pdb
+G:\aSkripten\5-apr\uebungen\loesungen\2008\Stawis-2008-12-18\DIS\DIS\obj\Debug\DIS.exe
+G:\aSkripten\5-apr\uebungen\loesungen\2008\Stawis-2008-12-18\DIS\DIS\obj\Debug\DIS.pdb
+G:\aSkripten\5-apr\uebungen\loesungen\2008\Stawis-2008-12-18\DIS\DIS\bin\Debug\DIS.exe
+G:\aSkripten\5-apr\uebungen\loesungen\2008\Stawis-2008-12-18\DIS\DIS\bin\Debug\DIS.pdb
+G:\aSkripten\5-apr\uebungen\loesungen\2008\Stawis-2008-12-18\DIS\DIS\obj\Debug\DIS.csprojResolveAssemblyReference.cache
+G:\aSkripten\5-apr\uebungen\schule\G3-Vorbereitung\DIS\DIS\obj\Debug\DIS.exe
+G:\aSkripten\5-apr\uebungen\schule\G3-Vorbereitung\DIS\DIS\obj\Debug\DIS.pdb
+G:\aSkripten\5-apr\uebungen\schule\G3-Vorbereitung\DIS\DIS\bin\Debug\DIS.exe
+G:\aSkripten\5-apr\uebungen\schule\G3-Vorbereitung\DIS\DIS\bin\Debug\DIS.pdb
+G:\aSkripten\5-apr\uebungen\schule\G3-Vorbereitung\DIS\DIS\obj\Debug\DIS.csprojResolveAssemblyReference.cache
+C:\Users\Anton\Documents\arbeit\aSkripten\5-apr\uebungen\schule\G3-Vorbereitung\DIS\DIS\obj\Debug\DIS.exe
+C:\Users\Anton\Documents\arbeit\aSkripten\5-apr\uebungen\schule\G3-Vorbereitung\DIS\DIS\obj\Debug\DIS.pdb
