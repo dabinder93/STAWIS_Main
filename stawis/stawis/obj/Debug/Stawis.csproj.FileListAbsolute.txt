@@ -62,3 +62,5 @@ C:\Users\Anton\Documents\arbeit\aSkripten\5-apr\uebungen\schule\StawisTestGrundl
 C:\Users\Anton\Documents\arbeit\aSkripten\5-apr\uebungen\schule\StawisTestGrundlage\Stawis\Stawis\obj\Debug\Stawis.Form1.resources
 C:\Users\Anton\Documents\arbeit\aSkripten\5-apr\uebungen\schule\StawisTestGrundlage\Stawis\Stawis\obj\Debug\Stawis.Properties.Resources.resources
 C:\Users\Anton\Documents\arbeit\aSkripten\5-apr\uebungen\schule\StawisTestGrundlage\Stawis\Stawis\obj\Debug\Stawis.csproj.GenerateResource.Cache
+C:\Users\David\Documents\GitHub\STAWIS_Homo\stawis\Stawis\bin\Debug\Stawis.exe.config
+C:\Users\David\Documents\GitHub\STAWIS_Homo\stawis\Stawis\obj\Debug\Stawis.exe

@@ -10,7 +10,7 @@ using System.Net;
 namespace Stawis {
   class ReceiveDataThread {
     Model model;
-    int localPort = 8001;
+    int localPort = 8001
 
 
     public ReceiveDataThread(Model model) {
